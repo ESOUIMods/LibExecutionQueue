@@ -6,13 +6,13 @@
 
 
 ## Title: Lib Execution Queue
-## APIVersion: 100028
+## APIVersion: 100031 100032
 ## Description: Allows you to queue up functions for execution and breakup long running operations fairly easily (See MasterMerchant for examples)
 ## Author: Philgo
+## IsLibrary: true
 ## Version: 2.0.0
 ## AddOnVersion: 200
 ## License: Do whatever you want with this code.
 ## LastUpdated: Jan 2019
-## IsLibrary: true
 
 LibExecutionQueue.lua
